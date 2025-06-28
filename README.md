@@ -49,23 +49,22 @@ This dashboard is designed for school administrators and teachers to:
 ## 📷 Screenshots
 
 ### 🔷 Main Dashboard
-![Dashboard](https://raw.githubusercontent.com/amitpachpute2510/ProjectImages/main/DASHBORD.JPG)
+![Dashboard](https://raw.githubusercontent.com/amitpachpute2510/Student-Performace-Dashord-in-Excel/refs/heads/main/DASHBORD.JPG)
 
 ### 🧑‍🎓 Student Tab
-![Student Tab](https://raw.githubusercontent.com/amitpachpute2510/ProjectImages/main/STUDENT_TAB.JPG)
+![Student Tab](https://raw.githubusercontent.com/amitpachpute2510/Student-Performace-Dashord-in-Excel/refs/heads/main/STUDENT_TAB.JPG)
 
 ### 👨‍🏫 Teacher Tab
-![Teacher Tab](https://raw.githubusercontent.com/amitpachpute2510/ProjectImages/main/TEACHER_TAB.JPG)
+![Teacher Tab](https://raw.githubusercontent.com/amitpachpute2510/Student-Performace-Dashord-in-Excel/refs/heads/main/TEACHER_TAB.JPG)
 
 ### 🎉 Event Tab
-![Event Tab](https://raw.githubusercontent.com/amitpachpute2510/ProjectImages/main/EVENT_TAB.JPG)
+![Event Tab](https://raw.githubusercontent.com/amitpachpute2510/Student-Performace-Dashord-in-Excel/refs/heads/main/EVENT_TAB.JPG)
 
 ### 📬 Contact Form (User View)
-![Contact Us](https://raw.githubusercontent.com/amitpachpute2510/ProjectImages/main/CONTACT_US.JPG)
+![Contact Us](https://raw.githubusercontent.com/amitpachpute2510/Student-Performace-Dashord-in-Excel/refs/heads/main/CONTACT_US.JPG)
 
 ### 📥 Contact Form Submission in Excel
-![Contact Excel Sheet](https://raw.githubusercontent.com/amitpachpute2510/ProjectImages/main/CONTACT_US_EXCEL_SHEET.JPG)
-
+![Contact Excel Sheet](https://raw.githubusercontent.com/amitpachpute2510/Student-Performace-Dashord-in-Excel/refs/heads/main/CONTACT_US_EXCEL_SHEET.JPG)
 
 ### 🧭 Navigation Buttons
 Quick buttons for:
